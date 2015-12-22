@@ -1,0 +1,1 @@
+*/10 * * * * python /Users/brlamore/src/waittime/waittimes.py >> /Users/brlamore/src/waittime/waittimes.log
